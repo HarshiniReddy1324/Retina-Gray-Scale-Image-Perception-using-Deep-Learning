@@ -1,4 +1,4 @@
-Retina Gray-Scale Image Perception using Deep Learning
+## Retina Gray-Scale Image Perception using Deep Learning
 
 A deep learning project for analyzing retina images by converting them to grayscale and leveraging CNNs for feature extraction and classification. This repository demonstrates how medical image preprocessing and neural networks can be applied to retinal images to detect patterns and support automated diagnosis.
 
