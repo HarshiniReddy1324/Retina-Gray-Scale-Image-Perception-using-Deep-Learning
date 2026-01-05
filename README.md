@@ -28,18 +28,6 @@ By simplifying the images and applying deep learning, this project aims to creat
 
 ✅ Easily extensible for other medical image datasets
 
-🗂 Repository Structure
-Retina-Gray-Scale-Image-Perception-using-Deep-Learning/
-├── Codes/                     # Scripts for preprocessing, training, and evaluation
-│   ├── preprocess.py
-│   ├── train.py
-│   └── evaluate.py
-├── Dataset/                   # Retina image dataset
-│   └── images/
-├── requirements.txt           # Python dependencies
-├── README.md                  # This file
-└── .gitignore
-
 💻 Installation
 
 Clone the repository:
