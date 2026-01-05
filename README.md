@@ -33,6 +33,7 @@ By simplifying the images and applying deep learning, this project aims to creat
 Clone the repository:
 
 git clone https://github.com/HarshiniReddy1324/Retina-Gray-Scale-Image-Perception-using-Deep-Learning.git
+
 cd Retina-Gray-Scale-Image-Perception-using-Deep-Learning
 
 
@@ -40,13 +41,7 @@ pip install numpy matplotlib opencv-python tensorflow scikit-learn
 
 🧩 How to Use
 1. Prepare the Dataset
-
 Place your retina images in the Dataset/images/ directory.
-Organize them by category if you have multiple classes:
-
-Dataset/
-├── normal/
-└── diseased/
 
 2. Preprocess Images
 python Codes/preprocess.py
